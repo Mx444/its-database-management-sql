@@ -1,0 +1,17 @@
+{
+    "name": "david/php",
+    "autoload": {
+        "psr-4": {
+            "David\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mx444",
+            "email": "mybbtester@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
